@@ -1,0 +1,7 @@
+{
+  "name": "ArthSetu",
+  "description": "ArthSetu financial services platform featuring instant personal & business loans, free credit health analysis, high-yield fixed deposits, paperless digital KYC, and smart investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
